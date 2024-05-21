@@ -1,0 +1,14 @@
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\bin\Debug\net8.0\AbstracaoJogoRpg.exe
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\bin\Debug\net8.0\AbstracaoJogoRpg.deps.json
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\bin\Debug\net8.0\AbstracaoJogoRpg.runtimeconfig.json
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\bin\Debug\net8.0\AbstracaoJogoRpg.dll
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\bin\Debug\net8.0\AbstracaoJogoRpg.pdb
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.AssemblyInfoInputs.cache
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.AssemblyInfo.cs
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.csproj.CoreCompileInputs.cache
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.dll
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\refint\AbstracaoJogoRpg.dll
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.pdb
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\AbstracaoJogoRpg.genruntimeconfig.cache
+C:\Users\GILMAR\source\repos\AbstracaoJogoRpg\AbstracaoJogoRpg\obj\Debug\net8.0\ref\AbstracaoJogoRpg.dll
